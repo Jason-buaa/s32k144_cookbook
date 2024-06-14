@@ -4,7 +4,7 @@
 **         Common include file for CMSIS register access layer headers.
 **
 **     Copyright (c) 2015 Freescale Semiconductor, Inc.
-**     Copyright 2016-2017 NXP
+**     Copyright 2016-2021 NXP
 **     All rights reserved.
 **
 **     THIS SOFTWARE IS PROVIDED BY NXP "AS IS" AND ANY EXPRESSED OR
@@ -54,7 +54,7 @@
 
     /* Register definitions */
     #include "S32K144.h"
-    /* CPU specific feature definitions */
+/* CPU specific feature definitions */
     #include "S32K144_features.h"
  
 #else
